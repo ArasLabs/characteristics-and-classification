@@ -15,12 +15,14 @@ Release notes/descriptions for the original project posted on the previous Aras 
 
 Release | Notes
 --------|--------
+[v1.3](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v1.3) | Classification hierarchies on Part (Item Type). Read documentation to learn how to install and more.
 [v1.2](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v1.2) | Classification hierarchies on Part (Item Type).
 
 #### Supported Aras Versions
 
 Project | Aras
 --------|------
+[v1.3](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v1.3) | Aras 9.3
 [v1.2](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v1.2) | Aras 9.3
 
 > ###### *Please note: Aras Community Projects are provided on an "as-is" basis.*
