@@ -15,6 +15,7 @@ Release notes/descriptions for the original project posted on the previous Aras 
 
 Release | Notes
 --------|--------
+[v3.1](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v3.1) | Same functionality as v3-0 with more fixes.
 [v3.0](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v3.0) | Updated to work on A10 and A11. Still a few issues but less than v2-2
 [v2.2](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v2.2) | BETA: Aras 10 only. Has known issues. Read Read-Me.txt or the User Guide to learn more.
 [v2.0](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v2.0) | Classification hierarchies on Part (Item Type). Added API Method for integrations to call as service, server-side. Read Read-Me.txt to learn more.
@@ -25,6 +26,7 @@ Release | Notes
 
 Project | Aras
 --------|------
+[v3.1](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v3.1) | Aras 11
 [v3.0](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v3.0) | Aras 11
 [v2.2](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v2.2) | Aras 10
 [v2.0](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v2.0) | Aras 9.4
