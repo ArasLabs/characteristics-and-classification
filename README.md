@@ -15,6 +15,7 @@ Release notes/descriptions for the original project posted on the previous Aras 
 
 Release | Notes
 --------|--------
+[v2.0](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v2.0) | Classification hierarchies on Part (Item Type). Added API Method for integrations to call as service, server-side. Read Read-Me.txt to learn more.
 [v1.3](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v1.3) | Classification hierarchies on Part (Item Type). Read documentation to learn how to install and more.
 [v1.2](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v1.2) | Classification hierarchies on Part (Item Type).
 
@@ -22,6 +23,7 @@ Release | Notes
 
 Project | Aras
 --------|------
+[v2.0](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v2.0) | Aras 9.4
 [v1.3](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v1.3) | Aras 9.3
 [v1.2](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v1.2) | Aras 9.3
 
