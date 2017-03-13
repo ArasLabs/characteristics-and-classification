@@ -9,12 +9,15 @@ Current version: v4-0(A11SP7), v4-1(A11SP9). Adds the assignment of freely defin
 
 Continue to use v2-0 on Aras 9.4.
 
+> NOTE: This functionality will be supported in standard product. Please see the [Aras Public Roadmap](http://www.aras.com/plm-roadmap/) for more information.
+
 ## History
 
 Release notes/descriptions for the original project posted on the previous Aras Projects page.
 
 Release | Notes
 --------|--------
+[v4.1](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v4.1) | Updated to work with A11SP9+. Multiple classifications per item type now supported
 [v4.0](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v4.0) | Updated to work with A11SP7+. Multiple classifications per item type now supported
 [v3.1](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v3.1) | Same functionality as v3-0 with more fixes.
 [v3.0](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v3.0) | Updated to work on A10 and A11. Still a few issues but less than v2-2
@@ -27,6 +30,7 @@ Release | Notes
 
 Project | Aras
 --------|------
+[v4.1](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v4.1) | Aras 11 SP9
 [v4.0](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v4.0) | Aras 11 SP7, SP8
 [v3.1](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v3.1) | Aras 11
 [v3.0](https://github.com/ArasLabs/characteristics-and-classification/releases/tag/v3.0) | Aras 11
