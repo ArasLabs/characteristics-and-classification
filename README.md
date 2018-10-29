@@ -45,6 +45,15 @@ Project | Aras
 
 >*If you experience issues with this or any other Aras Community Project, please contact the project author and file an issue on the project's GitHub repository. You can also check out the [Aras Developer Forums](http://community.aras.com/forums/) to see if any other community members have experienced the same issue.*
 
+##Contributing
+
+1. Fork it!
+2. Clone your copy of the repository: `git clone https://github.com/YOUR-USERNAME/characteristics-and-classification.git`
+3. Create your feature branch: `git checkout -b my-new-feature`
+4. Commit your changes: `git commit -am 'Add some feature'`
+5. Push to the branch: `git push origin my-new-feature`
+6. Submit a pull request :D
+
 ## Credits
 
 **Project Owner:** Rolf Laudenbach, Aras Corporation
